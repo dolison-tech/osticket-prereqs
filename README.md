@@ -28,6 +28,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - installed C++ redistributable
 - installed osTicket & configured permissions
 
+![image](https://github.com/user-attachments/assets/14a8c565-e348-4897-8bf4-46a3fe676ba1)
+
+
 <h2>Installation Steps</h2>
 
 <p>
