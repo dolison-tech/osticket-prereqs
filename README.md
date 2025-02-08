@@ -40,7 +40,8 @@ Loopback IP address with IIS active. (and a html message to myself for encourage
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/8130ea7a-ee6f-42e0-a342-b71d84cdfd87)
+
 </p>
 <p>
 picture caption
@@ -51,6 +52,6 @@ picture caption
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-picture caption
+Installing osTicket on VM and enabling required features through IIS.
 </p>
 <br />
