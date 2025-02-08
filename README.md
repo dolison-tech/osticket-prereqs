@@ -49,9 +49,10 @@ Installing osTicket on VM and enabling required features through IIS.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![SCREEN OS 7](https://github.com/user-attachments/assets/a930d533-a50a-476c-8eb2-19fc0e1a4113)
+
 </p>
 <p>
-picture text soon
+Installation Complete and ready to take tickets for resolve training.
 </p>
 <br />
